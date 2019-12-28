@@ -1,2 +1,2 @@
 # sysinfo
-# This script displays your system information
+* This script displays your system information
