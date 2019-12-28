@@ -1,6 +1,5 @@
 # bin/bash
 
-
 # This script script will return the following set of system information:
 echo -e "\e[31;43m***** HOSTNAME INFORMATION *****\e[0m"
 hostnamectl
@@ -25,5 +24,8 @@ echo ""
 # Top 5 memory cosuming prcoesses
 echo -e "\e[31;43m***** TOP 5 MEMORY COSUMING PROCESSES *****\e[0m"
 ps -eo %mem,%cpu,comm --sort=-%mem | head -n 6
-ech0 ""
+echo ""
 echo -e "\e[1;32mDone.\e[0m"
+
+whiptail --title "System Info" --msgbox "System information has been displayed below Any error please email me at kehindeakinsanya7@gmail.com. PLEASE CONTRIBUTE ON GITHUB TO ADD MORE TO THIS SCRIPT AND MAKE LINUX SYSADMIN JOBS EASIER." 8 78
+
