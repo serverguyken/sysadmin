@@ -1,0 +1,1 @@
+You can help improve this script by making them more coherent, consistent, or readable, adding missing information, correcting factual errors, fixing typos, or bringing them up to date with the latest system informations.
