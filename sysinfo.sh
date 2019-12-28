@@ -1,5 +1,8 @@
 # bin/bash
 
+# Email at kehindeakinsanya7@gmail.com for any error
+figlet "SYSTEM INFO"
+
 # This script script will return the following set of system information:
 echo -e "\e[31;43m***** HOSTNAME INFORMATION *****\e[0m"
 hostnamectl
