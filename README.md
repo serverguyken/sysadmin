@@ -9,4 +9,5 @@ use this script to get information of your linux system like memory,cpu,disk usa
 
 ## Trobleshooting & FAQ
 **Can't execute: Permission denied
+
 You can grant yourself execute permision in the terminal, use `chmod +x filename` 
