@@ -1,3 +1,2 @@
 # sysinfo
-
-dddd
+This script displays your system information
