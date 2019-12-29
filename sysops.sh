@@ -685,7 +685,7 @@ case $c in
 9) proc_info ;;
 10) user_infos ;;
 11) file_info ;;
-12) echo "Bye!"; exit 0 ;;
+12) echo "Exited System Operations!"; exit 0 ;;
 *) 
 echo "Please select between 1 to 12 choice only."
 pause
