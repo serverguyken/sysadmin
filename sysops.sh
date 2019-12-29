@@ -1,6 +1,7 @@
 #!/bin/bash
 ####################################################################
-# Kenny Akins - Script Modified December 28, 2019
+# Sathish Arthar (Sathisharthar {at} gmail.com) - Jan 2014
+echo -e "\e[31;43m#### Kenny Akins - Script Modified December 28, 2019 ####\e[0m"
 # Email at kehindeakinsanya7@gmail.com for any error
 ####################################################################
 #simple menu driven shell script to to get information about your Linux server / desktop and Do some Users and File operations Quickly.
