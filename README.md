@@ -1,4 +1,4 @@
-#sysinfo
+# sysinfo
 
 * This script displays your system information
 * Your might need to install figlet if you don't have it installed because it is included in the script and it won't show if not installed use command `sudo apt-get install figlet` or `apt-get install figlet`
