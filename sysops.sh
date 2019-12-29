@@ -1,6 +1,7 @@
 #!/bin/bash
 ####################################################################
 # Kenny Akins - Script Modified December 28, 2019
+# Email at kehindeakinsanya7@gmail.com for any error
 ####################################################################
 #simple menu driven shell script to to get information about your Linux server / desktop and Do some Users and File operations Quickly.
 #This script makes everytime easy and fast for you as a linux sytem administartor
